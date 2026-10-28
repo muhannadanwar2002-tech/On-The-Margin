@@ -23,7 +23,7 @@ in the same directory as the notebook before running it.
 
 Project Contents
 ---------------
-- Social.ipynb
+- Social_Media_Impact_MiniProject.ipynb
   Contains data understanding, cleaning, exploratory visualizations, model
   training, SVM kernel comparison, and Logistic Regression comparison.
 - Social_media_impact_on_life.csv
